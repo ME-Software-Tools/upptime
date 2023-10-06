@@ -3,14 +3,19 @@ owner: ME-Software-Tools # Your GitHub organization or username, where this repo
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Frontend - GWUI Dev
+    url: http://gwui-dev.generic-webui.iiot.dev.yacoub.de/
+  - name: Frontend - GWUI Release
+    url: http://murr.generic-webui.iiot.dev.yacoub.de/
+  - name: Backend - Virtual Xelity Release
+    url: http://xelity-backend.generic-webui.iiot.dev.yacoub.de/
+  - name: Backend - Virtual MVK Release
+    url: http://mvk-backend.generic-webui.iiot.dev.yacoub.de/
+  - name: Backend - Virtual Variox Release
+    url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
+  - name: Backend - Real Variox 
+    url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
