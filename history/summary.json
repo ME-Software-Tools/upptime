@@ -76,19 +76,19 @@
     "url": "http://variox-backend.generic-webui.iiot.dev.yacoub.de/",
     "icon": "https://icons.duckduckgo.com/ip3/variox-backend.generic-webui.iiot.dev.yacoub.de.ico",
     "slug": "backend-virtual-variox-release",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 346,
-    "timeWeek": 339,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 337,
+    "timeDay": 378,
+    "timeWeek": 350,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-10-13": 0
+      "2023-10-13": 6
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "http://variox-backend.generic-webui.iiot.dev.yacoub.de/",
     "icon": "https://icons.duckduckgo.com/ip3/variox-backend.generic-webui.iiot.dev.yacoub.de.ico",
     "slug": "backend-real-variox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 145,
-    "timeWeek": 131,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 131,
+    "timeDay": 155,
+    "timeWeek": 136,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-10-13": 0
+      "2023-10-13": 6
     }
   }
 ]
