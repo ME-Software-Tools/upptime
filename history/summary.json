@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 475,
-    "timeWeek": 416,
+    "timeWeek": 426,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 419,
     "timeDay": 631,
-    "timeWeek": 419,
+    "timeWeek": 435,
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 485,
-    "timeWeek": 395,
+    "timeWeek": 406,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 316,
-    "timeWeek": 378,
+    "timeWeek": 388,
     "timeMonth": 378,
     "timeYear": 378,
     "dailyMinutesDown": {}
@@ -76,35 +76,39 @@
     "url": "http://variox-backend.generic-webui.iiot.dev.yacoub.de/",
     "icon": "https://icons.duckduckgo.com/ip3/variox-backend.generic-webui.iiot.dev.yacoub.de.ico",
     "slug": "backend-virtual-variox-release",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 311,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
-    "dailyMinutesDown": {}
+    "time": 325,
+    "timeDay": 346,
+    "timeWeek": 339,
+    "timeMonth": 325,
+    "timeYear": 325,
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "Backend - Real Variox",
     "url": "http://variox-backend.generic-webui.iiot.dev.yacoub.de/",
     "icon": "https://icons.duckduckgo.com/ip3/variox-backend.generic-webui.iiot.dev.yacoub.de.ico",
     "slug": "backend-real-variox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 129,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {}
+    "time": 126,
+    "timeDay": 145,
+    "timeWeek": 131,
+    "timeMonth": 126,
+    "timeYear": 126,
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   }
 ]
