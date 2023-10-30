@@ -11,10 +11,10 @@ sites:
     url: http://xelity-backend.generic-webui.iiot.dev.yacoub.de/
   - name: Backend - Virtual MVK Release
     url: http://mvk-backend.generic-webui.iiot.dev.yacoub.de/
-  - name: Backend - Virtual Variox Release
+  - name: Backend - Virtual VarioX Release
     url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
-  - name: Backend - Real Variox 
-    url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
+  - name: Backend - Real VarioX 
+    url: https://variox1-bln.thingsgate.dev.yacoub.de/api/
   
 
 status-website:
