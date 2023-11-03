@@ -1,7 +1,7 @@
 url: http://mvk-backend.generic-webui.iiot.dev.yacoub.de/
-status: down
-code: 404
-responseTime: 599
-lastUpdated: 2023-11-02T23:06:12.971Z
+status: up
+code: 200
+responseTime: 542
+lastUpdated: 2023-11-03T14:50:01.427Z
 startTime: 2023-10-06T10:51:46.556Z
 generator: Upptime <https://github.com/upptime/upptime>
