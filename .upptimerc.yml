@@ -11,12 +11,14 @@ sites:
     url: http://xelity-backend.generic-webui.iiot.dev.yacoub.de/
   - name: Backend - Virtual MVK Release
     url: http://mvk-backend.generic-webui.iiot.dev.yacoub.de/
-  - name: Backend - Virtual PremiumIO 
-    url: http://premiumio-backend.generic-webui.iiot.dev.yacoub.de/
   - name: Backend - Virtual VarioX Release
     url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
-  - name: Backend - Real VarioX 
+  - name: Real VarioX 
     url: https://variox1-bln.thingsgate.dev.yacoub.de/api/
+  - name: Real Xelity (don't use ssl)
+    url: http://xelity-bln.thingsgate.dev.yacoub.de/#!/login
+  - name: Backend - Virtual PremiumIO 
+    url: http://premiumio-backend.generic-webui.iiot.dev.yacoub.de/
   
 
 status-website:
