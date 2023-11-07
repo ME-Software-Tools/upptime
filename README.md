@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [ME-Software-Tools](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [ME-Software-Tools](https://me-software-tools.github.io/upptime/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ME-Software-Tools/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/ME-Software-Tools/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ME-Software-Tools/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ME-Software-Tools/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
