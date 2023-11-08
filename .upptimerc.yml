@@ -8,7 +8,7 @@ sites:
   - name: Frontend - GWUI Release
     url: http://murr.generic-webui.iiot.dev.yacoub.de/
   - name: ------------------------
-    url: http://google.com/
+    url: http://google1.com/
   - name: Backend - Virtual Xelity Release
     url: http://xelity-backend.generic-webui.iiot.dev.yacoub.de/
   - name: Backend - Virtual MVK Release
@@ -16,17 +16,17 @@ sites:
   - name: Backend - Virtual VarioX Release
     url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
   - name: ------------------------
-    url: http://google.com/
+    url: http://google2.com/
   - name: Real VarioX 
     url: https://variox1-bln.thingsgate.dev.yacoub.de/api/
   - name: Real Xelity (don't use ssl)
     url: http://xelity-bln.thingsgate.dev.yacoub.de/#!/login
   - name: ------------------------
-    url: http://google.com/
+    url: http://google3.com/
   - name: Backend - Virtual PremiumIO 
     url: http://premiumio-backend.generic-webui.iiot.dev.yacoub.de/
   - name: ------------------------
-    url: http://google.com/
+    url: http://google4.com/
   - name: SPS23 Variox LNI aas-edge
     url: http://variox3-lni.thingsgate.dev.yacoub.de/
   - name: SPS23 Averto LNI Server
