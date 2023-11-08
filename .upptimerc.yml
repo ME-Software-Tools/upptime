@@ -28,7 +28,7 @@ sites:
   - name: ------------------------
     url: http://google4.com/
   - name: SPS23 Variox LNI aas-edge
-    url: http://variox3-lni.thingsgate.dev.yacoub.de/
+    url: http://variox3-lni.thingsgate.dev.yacoub.de/api/NetworkConfiguration
   - name: SPS23 Averto LNI Server
     url: https://ca-lni-emsfrontend-dev-001.gentlerock-dced5219.northeurope.azurecontainerapps.io
     
