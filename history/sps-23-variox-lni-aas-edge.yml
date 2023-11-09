@@ -1,7 +1,7 @@
 url: http://variox3-lni.thingsgate.dev.yacoub.de/api/NetworkConfiguration
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-09T10:40:39.163Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2023-11-09T17:43:05.264Z
 startTime: 2023-11-08T11:44:40.046Z
 generator: Upptime <https://github.com/upptime/upptime>
