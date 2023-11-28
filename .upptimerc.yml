@@ -31,6 +31,10 @@ sites:
     url: http://variox3-lni.thingsgate.dev.yacoub.de/api/NetworkConfiguration
   - name: SPS23 Averto LNI Server
     url: https://ca-lni-emsfrontend-dev-001.gentlerock-dced5219.northeurope.azurecontainerapps.io
+  - name: Frontend - IIOT-Portal
+    url: http://staging.iiot.dev.yacoub.de/
+  - name: Backend - IIOT-Portal
+    url: http://staging-iiot-api-gateway.iiot.dev.yacoub.de/
     
   
 
