@@ -1,7 +1,7 @@
 url: http://variox-backend.generic-webui.iiot.dev.yacoub.de/
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2023-11-28T07:46:43.956Z
+status: down
+code: 503
+responseTime: 232
+lastUpdated: 2023-11-28T07:52:57.163Z
 startTime: 2023-10-30T10:29:05.441Z
 generator: Upptime <https://github.com/upptime/upptime>
