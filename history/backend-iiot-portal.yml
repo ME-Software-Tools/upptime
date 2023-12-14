@@ -1,7 +1,7 @@
 url: http://staging-iiot-api-gateway.iiot.dev.yacoub.de/
-status: up
-code: 200
-responseTime: 343
-lastUpdated: 2023-12-09T23:07:34.474Z
+status: down
+code: 404
+responseTime: 391
+lastUpdated: 2023-12-14T11:04:19.195Z
 startTime: 2023-11-28T10:52:18.661Z
 generator: Upptime <https://github.com/upptime/upptime>
