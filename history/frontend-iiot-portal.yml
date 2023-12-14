@@ -1,7 +1,7 @@
 url: http://staging.iiot.dev.yacoub.de/
-status: down
-code: 404
-responseTime: 328
-lastUpdated: 2023-12-12T14:35:05.572Z
+status: up
+code: 200
+responseTime: 313
+lastUpdated: 2023-12-14T10:57:13.921Z
 startTime: 2023-11-28T10:52:17.959Z
 generator: Upptime <https://github.com/upptime/upptime>
