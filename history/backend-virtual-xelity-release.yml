@@ -1,7 +1,7 @@
 url: http://xelity-backend.generic-webui.iiot.dev.yacoub.de/
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2024-01-10T23:06:10.331Z
+status: down
+code: 404
+responseTime: 240
+lastUpdated: 2024-01-11T08:31:54.069Z
 startTime: 2023-10-06T10:51:45.699Z
 generator: Upptime <https://github.com/upptime/upptime>
