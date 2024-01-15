@@ -1,7 +1,7 @@
 url: https://variox1-bln.thingsgate.dev.yacoub.de/api/
-status: down
-code: 502
-responseTime: 631
-lastUpdated: 2024-01-15T09:32:33.505Z
+status: up
+code: 200
+responseTime: 1725
+lastUpdated: 2024-01-15T09:39:00.843Z
 startTime: 2023-11-07T11:22:35.060Z
 generator: Upptime <https://github.com/upptime/upptime>
