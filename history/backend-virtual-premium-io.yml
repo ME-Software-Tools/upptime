@@ -1,7 +1,7 @@
 url: http://premiumio-backend.generic-webui.iiot.dev.yacoub.de/
-status: up
-code: 200
-responseTime: 698
-lastUpdated: 2024-01-17T23:06:33.361Z
+status: down
+code: 400
+responseTime: 322
+lastUpdated: 2024-01-18T10:00:36.409Z
 startTime: 2023-11-03T17:26:49.313Z
 generator: Upptime <https://github.com/upptime/upptime>
