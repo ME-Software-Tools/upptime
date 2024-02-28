@@ -1,7 +1,7 @@
-url: http://google1.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-28T13:57:04.203Z
+url: http://google4.com/
+status: up
+code: 200
+responseTime: 336
+lastUpdated: 2024-02-28T13:57:08.663Z
 startTime: 2023-11-08T11:44:33.187Z
 generator: Upptime <https://github.com/upptime/upptime>
